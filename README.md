@@ -11,5 +11,9 @@ Auto-Email is a tool designed to generate cold emails automatically based on job
 - **Portfolio Integration:** Query a portfolio of previous projects or relevant links to include in the email.
 - **Streamlit Interface:** A user-friendly web interface for interacting with the application.
 
-## Recording
+ (Recording shows how the system works: https://github.com/mohamedAtoui/Auto-Email/blob/main/Recording.mp4)
+
+ ## Image of Business E-mail Generator: 
+ ![Example Image]()
+
 
