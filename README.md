@@ -14,6 +14,6 @@ Auto-Email is a tool designed to generate cold emails automatically based on job
  (Recording shows how the system works: https://github.com/mohamedAtoui/Auto-Email/blob/main/Recording.mp4)
 
  ## Image of Business E-mail Generator: 
- ![Example Image]()
+ ![Example Image](https://github.com/mohamedAtoui/Auto-Email/blob/main/Cold-Email.png)
 
 
