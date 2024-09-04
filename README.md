@@ -19,4 +19,5 @@ Auto-Email is a tool designed to generate cold emails automatically based on job
 ## Set-up:
  1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside app/.env update the value of GROQ_API_KEY with the API_KEY you created.
  2. Run the streamlit app:
+ ```bash
     streamlit run app/main.py
